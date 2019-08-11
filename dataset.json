@@ -1,0 +1,698 @@
+{
+    "1":
+    {
+        "lastname": "Cафарова",
+        "firstname": "Сарвиноз",
+        "patronymic": "Уткир кизи",
+        "email": "sarvinoz_safarova@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "2":
+    {
+        "lastname": "Makhmudov",
+        "firstname": "Kobilbek",
+        "patronymic": "Nurbekovich",
+        "email": "qobilbek00@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "3":
+    {
+        "lastname": "Абдукодиров",
+        "firstname": "Нозимжон",
+        "patronymic": "Насрулло угли",
+        "email": "nozimjon.abdukodirov.01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "4":
+    {
+        "lastname": "Абдурасулов",
+        "firstname": "Озодбек",
+        "patronymic": "Какрамон угли",
+        "email": "abdurasulovo@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "5":
+    {
+        "lastname": "Асраев",
+        "firstname": "Шахбоз",
+        "patronymic": "Абдумалик угли",
+        "email": "asraev00@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "6":
+    {
+        "lastname": "Байзаков",
+        "firstname": "Шохжахон",
+        "patronymic": "Раупович",
+        "email": "bayzaqov01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "7":
+    {
+        "lastname": "Бахтиёров",
+        "firstname": "Нурмухаммад",
+        "patronymic": "Эрали угли",
+        "email": "bakhtiyrov01@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "8":
+    {
+        "lastname": "Бобокандов",
+        "firstname": "Мухриддин",
+        "patronymic": "Мамарахим угли",
+        "email": "boboqandov.muxriddin@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "9":
+    {
+        "lastname": "Болибеков",
+        "firstname": "Уктам",
+        "patronymic": "Кахрамон угли",
+        "email": "bolibekov2000@mail.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "10":
+    {
+        "lastname": "Вохидов",
+        "firstname": "Ислом",
+        "patronymic": "Санжарович",
+        "email": "islomvoxidov@mail.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "11":
+    {
+        "lastname": "Гулмурадов",
+        "firstname": "Аббос",
+        "patronymic": "Анвар угли",
+        "email": "gulmuradov2000@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "12":
+    {
+        "lastname": "Дониёрбеков",
+        "firstname": "Диёржон",
+        "patronymic": "Бахтиёрович",
+        "email": "diyor.salakhitdinov.2002@gmail.com",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "13":
+    {
+        "lastname": "Жамшидова",
+        "firstname": "Нигина",
+        "patronymic": "Жамшидоввна",
+        "email": "zniginaa@mail.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "14":
+    {
+        "lastname": "Жозилова",
+        "firstname": "Зарина",
+        "patronymic": "Жамшид кизи",
+        "email": "jozilova01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "15":
+    {
+        "lastname": "Жураева",
+        "firstname": "Сабина",
+        "patronymic": "Суратовна",
+        "email": "jurayeva00@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "16":
+    {
+        "lastname": "Исматова",
+        "firstname": "Феруза",
+        "patronymic": "Хусан кизи",
+        "email": "ismatovaf@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "17":
+    {
+        "lastname": "Келдибекова",
+        "firstname": "Шахноза",
+        "patronymic": "Алишеровна",
+        "email": "keldibekova00@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "18":
+    {
+        "lastname": "Кенжаев",
+        "firstname": "Голибжон",
+        "patronymic": "Абдусамат угли",
+        "email": "kenjayev2000@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "19":
+    {
+        "lastname": "Кудратов",
+        "firstname": "Диёрбек",
+        "patronymic": "Равшан угли",
+        "email": "qudratov02@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "20":
+    {
+        "lastname": "Курбонов",
+        "firstname": "Улугбек",
+        "patronymic": "Абдусамад угли",
+        "email": "ulugbekkurbonov2000@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "21":
+    {
+        "lastname": "Лухмонов",
+        "firstname": "Санжаржон",
+        "patronymic": "Хабибжонович",
+        "email": "sanjarlukhmonov@gmail.com",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "22":
+    {
+        "lastname": "Мамадиёров",
+        "firstname": "Асилбек",
+        "patronymic": "Сахобиддин угли",
+        "email": "mamadiyorov01@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "23":
+    {
+        "lastname": "Махамматова",
+        "firstname": "Дурдона",
+        "patronymic": "Гофур кизи",
+        "email": "mahammatova00@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "24":
+    {
+        "lastname": "Махмасолийев",
+        "firstname": "Бахромжон",
+        "patronymic": "Шерзод Угли",
+        "email": "maxmasoliev2001@mail.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "25":
+    {
+        "lastname": "Меликулов",
+        "firstname": "Фазлиддин",
+        "patronymic": "Ислом угли",
+        "email": "fazliddin2020@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "26":
+    {
+        "lastname": "Мирсанова",
+        "firstname": "Феруза",
+        "patronymic": "Гайбулло кизи",
+        "email": "mirsanova02@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "27":
+    {
+        "lastname": "Муминов",
+        "firstname": "Абдутолиб",
+        "patronymic": "Урокхон угли",
+        "email": "abdutolib01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "28":
+    {
+        "lastname": "Муртазаев",
+        "firstname": "Дониёр",
+        "patronymic": "Исомиддин угли",
+        "email": "murtazayevd@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "29":
+    {
+        "lastname": "Нарзикулов",
+        "firstname": "Асадбек",
+        "patronymic": "Журабек угли",
+        "email": "narziqulov00@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "30":
+    {
+        "lastname": "Нарзикулов",
+        "firstname": "Жахонбек",
+        "patronymic": "Журабек угли",
+        "email": "narzikulov99@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "31":
+    {
+        "lastname": "Нормуратова",
+        "firstname": "Озода",
+        "patronymic": "Уктамовна",
+        "email": "normuratova00@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "32":
+    {
+        "lastname": "Нурманов",
+        "firstname": "Темурбек",
+        "patronymic": "Носир угли",
+        "email": "nurmanov2001@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "33":
+    {
+        "lastname": "Очилов",
+        "firstname": "Шохрух",
+        "patronymic": "Умурзок угли",
+        "email": "shoxruxochilov@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "34":
+    {
+        "lastname": "Примкулов",
+        "firstname": "Жавохир",
+        "patronymic": "Каримжон угли",
+        "email": "primqulov00@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "35":
+    {
+        "lastname": "Пулатова",
+        "firstname": "Азиза",
+        "patronymic": "Хусниддин кизи",
+        "email": "pulatova-aziza@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "36":
+    {
+        "lastname": "Раббимов",
+        "firstname": "Абдулазиз",
+        "patronymic": "Нодирович",
+        "email": "rabimov02@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "37":
+    {
+        "lastname": "Рахматов",
+        "firstname": "Ойбек",
+        "patronymic": "Асрор угли",
+        "email": "rakhmatov_oybek@mail.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "38":
+    {
+        "lastname": "Рахматуллаев",
+        "firstname": "Шохзод",
+        "patronymic": "Эркинович",
+        "email": "rakhmatullayev01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "39":
+    {
+        "lastname": "Сайфиев",
+        "firstname": "Фирдавс",
+        "patronymic": "Фозил угли",
+        "email": "sayfiyev01@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "40":
+    {
+        "lastname": "Темиров",
+        "firstname": "Амирбек",
+        "patronymic": "Хуршид угли",
+        "email": "amirbek-01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "41":
+    {
+        "lastname": "Темиров",
+        "firstname": "Самандар",
+        "patronymic": "Адхам угли",
+        "email": "samandar.temirov.01@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "42":
+    {
+        "lastname": "Тошмурадов",
+        "firstname": "Дилшод",
+        "patronymic": "Кахрамон угли",
+        "email": "dilshod.toshmurodov@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "43":
+    {
+        "lastname": "Тошмуродов",
+        "firstname": "Рамазон",
+        "patronymic": "Мехриддин угли",
+        "email": "toshmurodov02@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "44":
+    {
+        "lastname": "Туйчиева",
+        "firstname": "Сохиба",
+        "patronymic": "Икромжоновна",
+        "email": "tuychiyeva.sohiba@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "45":
+    {
+        "lastname": "Тураев",
+        "firstname": "Санат",
+        "patronymic": "Сафар угли",
+        "email": "torayev00@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "46":
+    {
+        "lastname": "Убайдуллаев",
+        "firstname": "Элбек",
+        "patronymic": "Отаниёзович",
+        "email": "elbek0101@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "47":
+    {
+        "lastname": "Узтемиров",
+        "firstname": "Вахобжон",
+        "patronymic": "Нодир угли",
+        "email": "vahobjon.oztemirov@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "48":
+    {
+        "lastname": "Улашев",
+        "firstname": "Парвезжон",
+        "patronymic": "Махмадамин угли",
+        "email": "ulashev01@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "49":
+    {
+        "lastname": "Утаев",
+        "firstname": "Руслан",
+        "patronymic": "Уктам угли",
+        "email": "rutayev@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "50":
+    {
+        "lastname": "Файзуллаев",
+        "firstname": "Ферузбек",
+        "patronymic": "Бекзод угли",
+        "email": "fayzullaev0101@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "51":
+    {
+        "lastname": "Хамдамов",
+        "firstname": "Хосилбой",
+        "patronymic": "Мажнун угли",
+        "email": "hosilboy@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "52":
+    {
+        "lastname": "Холматов",
+        "firstname": "Шохруз",
+        "patronymic": "Ойбек угли",
+        "email": "shohruz.xolmatov.00@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "53":
+    {
+        "lastname": "Холмуродова",
+        "firstname": "Малика",
+        "patronymic": "Баходировна",
+        "email": "malikaxolmurodova@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "54":
+    {
+        "lastname": "Хусанов",
+        "firstname": "Сардор",
+        "patronymic": "Дилмурод угли",
+        "email": "sardorkhusanov@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "55":
+    {
+        "lastname": "Хушвактов",
+        "firstname": "Дилшод",
+        "patronymic": "Исроил угли",
+        "email": "xushvaqtov00@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "56":
+    {
+        "lastname": "Шайматов",
+        "firstname": "Дилмурод",
+        "patronymic": "Низомиддин угли",
+        "email": "shaymatov00@bk.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "57":
+    {
+        "lastname": "Шайматов",
+        "firstname": "Дилмурод",
+        "patronymic": "Низомиддин угли",
+        "email": "shaymatov00@list.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    },
+    "58":
+    {
+        "lastname": "Юсупова",
+        "firstname": "Интизор",
+        "patronymic": "Маъмур кизи",
+        "email": "intizory@inbox.ru",
+        "country": "Узбекистан",
+        "city": "Самарканд",
+        "school": "Академический лицей №1 при СамСХИ",
+        "class": 11,
+        "finish": 2019
+    }
+}
